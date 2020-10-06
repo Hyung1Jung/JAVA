@@ -8,4 +8,6 @@
 4. [자주 사용하는 함수형 인터페이스](https://1-7171771.tistory.com/101?category=928895)
 
 ### 기초
-1.[람다식 기초](https://junghyungil.tistory.com/39?category=892275)
+
+1. [람다식 기초](https://junghyungil.tistory.com/39?category=892275)
+2. [스트림 기초]()
