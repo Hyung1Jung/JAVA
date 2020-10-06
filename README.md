@@ -6,3 +6,6 @@
 2. [Stream API 정리 1편](https://1-7171771.tistory.com/99?category=928895)
 3. [Stream API 정리 2편](https://1-7171771.tistory.com/102?category=928895)
 4. [자주 사용하는 함수형 인터페이스](https://1-7171771.tistory.com/101?category=928895)
+
+### 기초
+1.[람다식 기초](https://junghyungil.tistory.com/39?category=892275)
