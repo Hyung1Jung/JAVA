@@ -1,4 +1,4 @@
-package ex1.Optional;
+package ex1.optional;
 
 import java.util.Optional;
 
