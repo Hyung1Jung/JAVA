@@ -1,4 +1,4 @@
-package ex1.lambda;
+package java8.lambda;
 
 @FunctionalInterface
 public interface StringConcat {

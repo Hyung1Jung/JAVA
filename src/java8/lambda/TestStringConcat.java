@@ -1,6 +1,4 @@
-package ex1.lambda;
-
-import java.sql.SQLOutput;
+package java8.lambda;
 
 public class TestStringConcat {
 

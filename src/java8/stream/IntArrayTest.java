@@ -1,4 +1,4 @@
-package ex1.stream;
+package java8.stream;
 
 import java.util.Arrays;
 
