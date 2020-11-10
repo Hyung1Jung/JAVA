@@ -1,8 +1,6 @@
 ## 자바 이해도를 높이기 위한, 자바8 학습을 위한 스터디
 
 
-##
-
 ### 자바8
   
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
@@ -11,6 +9,7 @@
     * [스트림 메서드 정리](https://junghyungil.tistory.com/49?category=892275)
 * [옵셔널](https://junghyungil.tistory.com/44?category=892275)
 * [쓰레드](https://junghyungil.tistory.com/41?category=892275)
+
 
 ### 자바 이해도 높이기
 
@@ -29,3 +28,4 @@
 ### IntellJ TIP
 
 * [Translator Plugins (IntellJ에서 한 -> 영 번역)](https://junghyungil.tistory.com/63?category=905725)
+
