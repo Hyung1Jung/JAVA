@@ -1,5 +1,6 @@
 ## 자바 이해도를 높이기 위한, 자바8 학습을 위한 스터디
 
+
 ##
 
 ### 자바8
@@ -18,7 +19,7 @@
 * [Garbage collection(1)](https://junghyungil.tistory.com/8?category=892275)
 * [Garbage collection(2)](https://junghyungil.tistory.com/9?category=892275)
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
-
+* [디자인 패턴 -> 템플릿 메서드](https://junghyungil.tistory.com/category/Java)
 ### IntellJ TIP
 
 * [Translator Plugins (IntellJ에서 한 -> 영 번역)](https://junghyungil.tistory.com/63?category=905725)
