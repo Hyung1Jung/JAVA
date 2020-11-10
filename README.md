@@ -19,7 +19,10 @@
 * [Garbage collection(1)](https://junghyungil.tistory.com/8?category=892275)
 * [Garbage collection(2)](https://junghyungil.tistory.com/9?category=892275)
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
-* [디자인 패턴 -> 템플릿 메서드](https://junghyungil.tistory.com/category/Java)
+* 디자인 패턴
+    * [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
+    * [템플릿 메서드 활용]()
+    
 ### IntellJ TIP
 
 * [Translator Plugins (IntellJ에서 한 -> 영 번역)](https://junghyungil.tistory.com/63?category=905725)
