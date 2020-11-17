@@ -1,5 +1,7 @@
 package thread;
 
+import java.util.concurrent.TransferQueue;
+
 class MyThread implements Runnable{
 
     public void run() { // 쓰레드가 start되면 run() 실행이 된다.
@@ -28,13 +30,16 @@ public class ThreadTest {
 //        th1.start();
 //        th2.start();
 
-        MyThread runner1 = new MyThread();
-        Thread th1 = new Thread(runner1);
-        th1.start();
+//        MyThread runner1 = new MyThread();
+//        Thread th1 = new Thread(runner1);
+//        th1.start();
+//
+//        MyThread runner2 = new MyThread();
+//        Thread th2 = new Thread(runner2);
+//        th2.start();
 
-        MyThread runner2 = new MyThread();
-        Thread th2 = new Thread(runner2);
-        th2.start();
+        Thread t = Thread.currentThread(); // static method, 현재 main이 돌고 있는 쓰레드를 가지고 올 수 있다.
+        System.out.println(t);
 
         System.out.println("end");
     }
