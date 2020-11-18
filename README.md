@@ -17,6 +17,7 @@
 * [Garbage collection(2)](https://junghyungil.tistory.com/9?category=892275)
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
+* [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
 * 디자인 패턴
     * [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
     * [템플릿 메서드 활용 ~ ing]()
