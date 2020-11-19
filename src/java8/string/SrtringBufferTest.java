@@ -10,6 +10,7 @@ public class SrtringBufferTest {
         System.out.println("문자열 string 변환 : " + sb.toString());
         System.out.println("문자열 추출 : " + sb.substring(2,4));
         System.out.println("문자열 추가 : " + sb.insert(2,"추가"));
+        System.out.println("문자열 삭제 : " + sb.delete(2, 4));
         System.out.println("문자열 연결 : " + sb.append("aaaaaa"));
         System.out.println("문자열의 길이 : " + sb.length());
         System.out.println("용량의 크기 : " + sb.capacity());
