@@ -3,12 +3,13 @@
 ### 자바8
   
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
-* [스트림](https://junghyungil.tistory.com/40?category=892275)
+* [람다를 활용할 수 있는 기술중 하나인 java8의 스트림](https://junghyungil.tistory.com/40?category=892275)
     * [스트림 API 3가지 매칭메소드](https://junghyungil.tistory.com/48?category=892275)
     * [스트림 메서드 정리](https://junghyungil.tistory.com/49?category=892275)
 * [표준 입출력스트림](https://junghyungil.tistory.com/72?category=892275) 
 * [바이트 단위 입출력 스트림](https://junghyungil.tistory.com/73?category=892275)   
 * [문자 단위 입출력 스트림](https://junghyungil.tistory.com/74?category=892275)
+* [보조 스트림](https://junghyungil.tistory.com/75?category=892275)
 * [옵셔널](https://junghyungil.tistory.com/44?category=892275)
 * [자바 메모리 구조](https://junghyungil.tistory.com/14?category=892275)
 * [시간 복잡도와 BiG-O 표기법](https://junghyungil.tistory.com/10?category=892275)
