@@ -40,9 +40,7 @@ public class FileInputTest1 {
         }
         System.out.println("end");
     }
-
-
-//        * try with resources
+//        * try with resources *
 //        try (FileInputStream fis = new FileInputStream("input.txt")) {
 //            int i;
 //            while ((i = fis.read()) != -1) {
