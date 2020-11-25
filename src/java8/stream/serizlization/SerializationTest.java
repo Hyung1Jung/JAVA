@@ -3,7 +3,7 @@ package java8.stream.serizlization;
 import java.io.*;
 import java.security.spec.RSAOtherPrimeInfo;
 
-class Person implements Serializable {
+class Person implements Externalizable {
     String name;
     transient String job;
 
@@ -14,6 +14,16 @@ class Person implements Serializable {
 
     public String toString() {
         return name + "," + job;
+    }
+
+    @Override
+    public void writeExternal(ObjectOutput out) throws IOException {
+
+    }
+
+    @Override
+    public void readExternal(ObjectInput in) throws IOException, ClassNotFoundException {
+
     }
 }
 
