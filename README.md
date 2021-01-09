@@ -1,6 +1,6 @@
-## 자바 이해도를 높이기 위한, 자바8 학습을 위한 스터디
+## JAVA STUDY
 
-### 자바8
+### 자바
   
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
 * [람다를 활용할 수 있는 기술중 하나인 java8의 스트림](https://junghyungil.tistory.com/40?category=892275)
@@ -21,6 +21,7 @@
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
 * [String, Wrapper Class, boxing & unboxing](https://junghyungil.tistory.com/70?category=892275)
 * [제네릭](https://junghyungil.tistory.com/71?category=892275)
+* [pass by value의 메모리 관리 과정](https://junghyungil.tistory.com/89?category=892275)  
 * 디자인 패턴
     * [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
     * [템플릿 메서드 활용 ~ ing]()
