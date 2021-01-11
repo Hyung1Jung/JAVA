@@ -21,7 +21,8 @@
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
 * [String, Wrapper Class, boxing & unboxing](https://junghyungil.tistory.com/70?category=892275)
 * [제네릭](https://junghyungil.tistory.com/71?category=892275)
-* [pass by value의 메모리 관리 과정](https://junghyungil.tistory.com/89?category=892275)  
+* [pass by value의 메모리 관리 과정](https://junghyungil.tistory.com/89?category=892275)
+* [열거형 Enum](https://junghyungil.tistory.com/88?category=892275)  
 * 디자인 패턴
     * [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
     * [템플릿 메서드 활용 ~ ing]()
