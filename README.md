@@ -5,6 +5,7 @@
 * [Collection](https://junghyungil.tistory.com/90?category=892275)
   * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
   * [Set, Queue](https://junghyungil.tistory.com/92?category=892275)
+  * [Map](https://junghyungil.tistory.com/93?category=892275)
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
 * [람다를 활용할 수 있는 기술중 하나인 java8의 스트림](https://junghyungil.tistory.com/40?category=892275)
     * [스트림 API 3가지 매칭메소드](https://junghyungil.tistory.com/48?category=892275)
