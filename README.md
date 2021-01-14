@@ -1,7 +1,7 @@
 ## JAVA STUDY
 
 ### 자바
-  
+* [JVM 메모리 구조](https://junghyungil.tistory.com/94?category=892275)
 * [Collection](https://junghyungil.tistory.com/90?category=892275)
   * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
   * [Set, Queue](https://junghyungil.tistory.com/92?category=892275)
@@ -23,7 +23,7 @@
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
-* [String, Wrapper Class, boxing & unboxing](https://junghyungil.tistory.com/70?category=892275)
+* [String, String +, StringBuffer, StringBuilder, Wrapper Class, boxing & unboxing](https://junghyungil.tistory.com/70?category=892275)
 * [제네릭](https://junghyungil.tistory.com/71?category=892275)
 * [pass by value의 메모리 관리 과정](https://junghyungil.tistory.com/89?category=892275)
 * [열거형 Enum](https://junghyungil.tistory.com/88?category=892275)  
