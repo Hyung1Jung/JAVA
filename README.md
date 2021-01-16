@@ -14,7 +14,7 @@
 * [바이트 단위 입출력 스트림](https://junghyungil.tistory.com/73?category=892275)   
 * [문자 단위 입출력 스트림, 그 외 입출력 스트림](https://junghyungil.tistory.com/74?category=892275)
 * [보조 스트림](https://junghyungil.tistory.com/75?category=892275)
-* [직렬화](https://junghyungil.tistory.com/77?category=892275)
+* [Serializable과 NIO](https://junghyungil.tistory.com/77?category=892275)
 * [옵셔널](https://junghyungil.tistory.com/44?category=892275)
 * [자바 메모리 구조](https://junghyungil.tistory.com/14?category=892275)
 * [시간 복잡도와 BiG-O 표기법](https://junghyungil.tistory.com/10?category=892275)
