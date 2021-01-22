@@ -1,3 +1,5 @@
+package java_study.collection;
+
 import java.util.ArrayList;
 import java.util.List;
 
