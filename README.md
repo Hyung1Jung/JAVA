@@ -37,9 +37,9 @@
    * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
 
 
-### 스프링을 위한 자바 객체 지향의 원리와 이해
+### 자바 객체 지향의 원리와 이해
 * [스프링을 위한 자바 객체 지향의 원리와 이해를 읽으며 중요한 것들 위주로 정리](https://junghyungil.tistory.com/97?category=892275)
-
+* [객체 지향 설계 5원칙 - SOLID](https://junghyungil.tistory.com/98?category=892275)
 
 ### IntellJ TIP
 
