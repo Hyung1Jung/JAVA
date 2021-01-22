@@ -43,15 +43,13 @@
 * [옵셔널](https://junghyungil.tistory.com/44?category=892275)
 
 ### 디자인 패턴
-* 디자인 패턴
-    * [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
-    * [템플릿 메서드 활용 ~ ing]()
-    * [싱글톤 패턴(1)](https://junghyungil.tistory.com/66?category=892275)
-    * [데코레이터 패턴](https://junghyungil.tistory.com/67?category=892275)
+* [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
+* [템플릿 메서드 활용 ~ ing]()
+* [싱글톤 패턴(1)](https://junghyungil.tistory.com/66?category=892275)
+* [데코레이터 패턴](https://junghyungil.tistory.com/67?category=892275)
   
 ### 성능 튜닝
-* 자바 성능 튜닝
-   * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
+* [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
   
 ### 자바 객체 지향의 원리와 이해
 * [스프링을 위한 자바 객체 지향의 원리와 이해를 읽으며 중요한 것들 위주로 정리](https://junghyungil.tistory.com/97?category=892275)
