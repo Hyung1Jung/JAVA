@@ -27,7 +27,7 @@
 * [Collection](https://junghyungil.tistory.com/90?category=892275)
   * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
   * [Set, Queue](https://junghyungil.tistory.com/92?category=892275)
-  * [Map](https://junghyungil.tistory.com/93?category=892275)
+  * [Map 및 HashTable vs HashMap, LoadFactor, bucket에 관해 자세히](https://junghyungil.tistory.com/93?category=892275)
 * [ArrayList 깊은 복사, 얕은 복사](https://junghyungil.tistory.com/category/Java)
 * [ArrayList는 어떻게 동적으로 사이즈가 늘어나는가? add() flow(동작 방식)](https://junghyungil.tistory.com/96?category=892275)
 
