@@ -34,6 +34,7 @@
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
+* [쓰레드들에 대한 변수의 변경의 가시성을 보장하는 volatile 키워드](https://junghyungil.tistory.com/99?category=892275)
 
 ### 람다, 옵셔널, 스트림
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
