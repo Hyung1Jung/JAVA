@@ -30,6 +30,7 @@
   * [Map 및 HashTable vs HashMap, LoadFactor, bucket에 관해 자세히](https://junghyungil.tistory.com/93?category=892275)
 * [ArrayList 깊은 복사, 얕은 복사](https://junghyungil.tistory.com/category/Java)
 * [ArrayList는 어떻게 동적으로 사이즈가 늘어나는가? add() flow(동작 방식)](https://junghyungil.tistory.com/96?category=892275)
+* [PriorityQueue(우선순위 큐)와 용량 및 동작방식](https://junghyungil.tistory.com/102?category=892275)
 
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
