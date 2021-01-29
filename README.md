@@ -58,6 +58,11 @@
 * [스프링을 위한 자바 객체 지향의 원리와 이해를 읽으며 중요한 것들 위주로 정리](https://junghyungil.tistory.com/97?category=892275)
 * [객체 지향 설계 5원칙 - SOLID](https://junghyungil.tistory.com/98?category=892275)
 
+
+### 이펙티브 자바
+* 2장, 객체 생성과 파괴
+  * [아이템 1, 생성자 대신 정적 팩터리 메서드를 고려하라]()
+
 ### 그 외
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
 
