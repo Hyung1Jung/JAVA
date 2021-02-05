@@ -63,7 +63,7 @@
 
 ### 이펙티브 자바
 * 2장, 객체 생성과 파괴
-  * [아이템 1, 생성자 대신 정적 팩터리 메서드를 고려하라]()
+  * [아이템 1, 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item01)
 
 ### 그 외
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
