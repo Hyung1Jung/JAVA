@@ -48,11 +48,12 @@
 * [옵셔널](https://junghyungil.tistory.com/44?category=892275)
 
 ### 디자인 패턴
-* [템플릿 메서드](https://junghyungil.tistory.com/64?category=892275)
+* [템플릿 메서드 패턴](https://junghyungil.tistory.com/64?category=892275)
 * [템플릿 메서드 활용 ~ ing]()
 * [싱글톤 패턴(1)](https://junghyungil.tistory.com/66?category=892275)
 * [데코레이터 패턴](https://junghyungil.tistory.com/67?category=892275)
-* [전략패턴](https://junghyungil.tistory.com/category/Java)
+* [전략 패턴](https://junghyungil.tistory.com/category/Java)
+* [어댑터 패턴](https://junghyungil.tistory.com/107?category=892275)
   
 ### 성능 튜닝
 * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
