@@ -52,6 +52,7 @@
 * [템플릿 메서드 활용 ~ ing]()
 * [싱글톤 패턴(1)](https://junghyungil.tistory.com/66?category=892275)
 * [데코레이터 패턴](https://junghyungil.tistory.com/67?category=892275)
+* [전략패턴](https://junghyungil.tistory.com/category/Java)
   
 ### 성능 튜닝
 * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
