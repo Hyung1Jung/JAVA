@@ -54,6 +54,7 @@
 * [데코레이터 패턴](https://junghyungil.tistory.com/67?category=892275)
 * [전략 패턴](https://junghyungil.tistory.com/category/Java)
 * [어댑터 패턴](https://junghyungil.tistory.com/107?category=892275)
+* [프록시 패턴](https://junghyungil.tistory.com/109?category=892275)
   
 ### 성능 튜닝
 * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
