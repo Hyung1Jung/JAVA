@@ -32,6 +32,7 @@
 * [ArrayList는 어떻게 동적으로 사이즈가 늘어나는가? add() flow(동작 방식)](https://junghyungil.tistory.com/96?category=892275)
 * [PriorityQueue(우선순위 큐)와 용량 및 동작방식](https://junghyungil.tistory.com/102?category=892275)
 * [ConcurrentHashMap](https://junghyungil.tistory.com/104?category=892275)
+* [일급 컬렉션](https://github.com/Hyung1Jung/JAVA/tree/master/src/java_study/collection/%EC%9D%BC%EA%B8%89%EC%BB%AC%EB%A0%89%EC%85%98)
 
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
