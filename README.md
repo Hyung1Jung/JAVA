@@ -33,6 +33,7 @@
 * [PriorityQueue(우선순위 큐)와 용량 및 동작방식](https://junghyungil.tistory.com/102?category=892275)
 * [ConcurrentHashMap](https://junghyungil.tistory.com/104?category=892275)
 * [일급 컬렉션](https://junghyungil.tistory.com/112?category=892275)
+* [ArrayDeque](https://junghyungil.tistory.com/116?category=892275)
 
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
