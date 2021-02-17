@@ -22,7 +22,7 @@
 * [문자 단위 입출력 스트림, 그 외 입출력 스트림](https://junghyungil.tistory.com/74?category=892275)
 * [보조 스트림](https://junghyungil.tistory.com/75?category=892275)
 * [Serializable과 NIO](https://junghyungil.tistory.com/77?category=892275)
-
+* [Serializable, 마커 인터페이스](https://junghyungil.tistory.com/category/Java)
 ### 콜렉션
 * [Collection](https://junghyungil.tistory.com/90?category=892275)
   * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
