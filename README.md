@@ -22,7 +22,8 @@
 * [문자 단위 입출력 스트림, 그 외 입출력 스트림](https://junghyungil.tistory.com/74?category=892275)
 * [보조 스트림](https://junghyungil.tistory.com/75?category=892275)
 * [Serializable과 NIO](https://junghyungil.tistory.com/77?category=892275)
-* [Serializable, 마커 인터페이스](https://junghyungil.tistory.com/category/Java)
+* [Serializable, 마커 인터페이스](https://junghyungil.tistory.com/120?category=892275)
+
 ### 콜렉션
 * [Collection](https://junghyungil.tistory.com/90?category=892275)
   * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
@@ -54,7 +55,7 @@
 * [템플릿 메서드 활용 ~ ing]()
 * [싱글톤 패턴(1)](https://junghyungil.tistory.com/66?category=892275)
 * [데코레이터 패턴](https://junghyungil.tistory.com/67?category=892275)
-* [전략 패턴](https://junghyungil.tistory.com/category/Java)
+* [전략 패턴](https://junghyungil.tistory.com/106?category=892275)
 * [어댑터 패턴](https://junghyungil.tistory.com/107?category=892275)
 * [프록시 패턴](https://junghyungil.tistory.com/109?category=892275)
   
@@ -70,6 +71,7 @@
 * 2장, 객체 생성과 파괴
   * [아이템 1 : 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item01)
   * [아이템 2 : 생성자에 매개변수가 많으면 빌더를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item02)  
+  
 ### 그 외
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)
 
