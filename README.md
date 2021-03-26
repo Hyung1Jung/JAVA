@@ -42,6 +42,7 @@
 * [쓰레드들에 대한 변수의 변경의 가시성을 보장하는 volatile 키워드](https://junghyungil.tistory.com/99?category=892275)
 * [쓰레드 영역에 변수를 설정하여 특정 쓰레드가 실행하는 코드에서 그 쓰레드의 설정된 변수 값을 사용할 수 있는 ThreadLocal](https://junghyungil.tistory.com/100?category=892275)
 * [Fork Join Pool](https://junghyungil.tistory.com/103?category=892275)
+* [64비트는 왜 원자적이지 않을까? 및 연산의 원자성에 관한 고찰](https://junghyungil.tistory.com/126?category=892275)
 
 ### 람다, 옵셔널, 스트림
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
