@@ -6,6 +6,7 @@
 * [Garbage collection(2)](https://junghyungil.tistory.com/9?category=892275)
 * [시간 복잡도와 BiG-O 표기법](https://junghyungil.tistory.com/10?category=892275)
 * [Call by value의 메모리 관리 과정](https://junghyungil.tistory.com/89?category=892275)
+* [JVM과 하드웨어 아키텍쳐 간의 관계](https://junghyungil.tistory.com/127)
 
 ### 스트링
 * [String, String +, StringBuffer, StringBuilder, Wrapper Class, boxing & unboxing](https://junghyungil.tistory.com/70?category=892275)
@@ -35,6 +36,7 @@
 * [ConcurrentHashMap](https://junghyungil.tistory.com/104?category=892275)
 * [일급 컬렉션](https://junghyungil.tistory.com/112?category=892275)
 * [ArrayDeque](https://junghyungil.tistory.com/116?category=892275)
+* [블로킹 큐(Blocking Queues)](https://junghyungil.tistory.com/128)
 
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
