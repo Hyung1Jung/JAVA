@@ -36,7 +36,7 @@
 * [ConcurrentHashMap](https://junghyungil.tistory.com/104?category=892275)
 * [일급 컬렉션](https://junghyungil.tistory.com/112?category=892275)
 * [ArrayDeque](https://junghyungil.tistory.com/116?category=892275)
-* [블로킹 큐(Blocking Queues)](https://junghyungil.tistory.com/128)
+* [블로킹 큐(Blocking Queues)](https://junghyungil.tistory.com/128?category=892275)
 
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
