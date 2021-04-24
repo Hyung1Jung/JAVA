@@ -7,6 +7,7 @@
 * [시간 복잡도와 BiG-O 표기법](https://junghyungil.tistory.com/10?category=892275)
 * [Call by value의 메모리 관리 과정](https://junghyungil.tistory.com/89?category=892275)
 * [JVM과 하드웨어 아키텍쳐 간의 관계](https://junghyungil.tistory.com/127)
+* [메모리 누수(Memory Leak)과 GC 성능 튜닝](https://junghyungil.tistory.com/133?category=892275)
 
 ### 스트링
 * [String, String +, StringBuffer, StringBuilder, Wrapper Class, boxing & unboxing](https://junghyungil.tistory.com/70?category=892275)
