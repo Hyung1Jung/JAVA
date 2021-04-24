@@ -62,7 +62,8 @@
 * [전략 패턴](https://junghyungil.tistory.com/106?category=892275)
 * [어댑터 패턴](https://junghyungil.tistory.com/107?category=892275)
 * [프록시 패턴](https://junghyungil.tistory.com/109?category=892275)
-  
+* [팩토리 메서드 패턴](https://junghyungil.tistory.com/115?category=892275)  
+
 ### 성능 튜닝
 * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
   
